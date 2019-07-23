@@ -48,3 +48,11 @@ div {
     opacity: .7;
     	
 }
+
+*{
+    margin: 0 auto;   
+}
+
+*{
+    text-align: center;
+}
